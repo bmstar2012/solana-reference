@@ -2,9 +2,9 @@
 
 ## Low level
 ### Getting start Solana
-- Tutorial1: Hello world \
+- Tutorial 1: Hello world \
 [Hello world](https://github.com/solana-labs/example-helloworld)
-- Tutorial2: Solana Programming Introduction (from paulx)\
+- Tutorial 2: Solana Programming Introduction (from paulx)\
 [Post](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/) | [Source](https://github.com/paul-schaaf/solana-escrow) \
   I recommend reading this post first before reading other posts to understand how to program in Solana.
 
@@ -27,11 +27,11 @@
 - [Anchor Web3](https://project-serum.github.io/anchor/ts/index.html)
 
 ### Getting start
-- Tutorial: Hello world
+- Tutorial 1: Hello world
   [Post](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)  |
   [Source](https://github.com/dabit3/complete-guide-to-full-stack-solana-development) \
   I think that this is just "Hello world" for Anchor
-- Tutorial: Escrow: [Post](https://hackmd.io/@ironaddicteddog/solana-anchor-escrow) | 
+- Tutorial 2: Escrow: [Post](https://hackmd.io/@ironaddicteddog/solana-anchor-escrow) | 
 [Source](https://github.com/ironaddicteddog/anchor-escrow) 
 
 ### Advanced
