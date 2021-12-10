@@ -38,5 +38,3 @@
 - Escrow(advanced) [Source](https://github.com/cqfd/quidproquo) 
 
 - Anchor AMM [Source](https://github.com/ironaddicteddog/anchor-amm) 
-
-
