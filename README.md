@@ -17,6 +17,7 @@
 - [Solana Web3](https://solana-labs.github.io/solana-web3.js/)
 - [Wallet adapter](https://solana-labs.github.io/wallet-adapter/)
 - [JSON RPC API](https://docs.solana.com/developing/clients/jsonrpc-api)
+- [SPL Token JS](https://github.com/solana-labs/solana-program-library/tree/master/token/js)
 
 ## High Level
 ### Anchor framework
